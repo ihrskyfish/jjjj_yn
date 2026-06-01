@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "2f6771336b4dcc00",
+    "type": "split",
+    "children": [
+      {
+        "id": "474f6dd60db0cd05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f000581be6ad58a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "小说;;短视频;;......  吸引人.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "小说;;短视频;;......  吸引人"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b9d574bdb29f62b1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "01abd048572c9068",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "be8b4be65d089aca",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "b8997578da9a7995",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "dab01c1750795a79",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "cfcefc029ffd3cb6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7daba6a40bbf9f47",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "小说;;短视频;;......  吸引人.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "cc23c103e5524bdf",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "小说;;短视频;;......  吸引人.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "246a16873a77dca1",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "小说;;短视频;;......  吸引人.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f000581be6ad58a3",
+  "lastOpenFiles": [
+    "todo.md",
+    "小说;;短视频;;......  吸引人.md",
+    "日记.md",
+    "Untitled.base"
+  ]
+}
